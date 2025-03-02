@@ -1,0 +1,706 @@
+
+new_text old_text: ['doctor', 'european doctor']
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+find near one
+counts:25 23
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+find near one
+counts:25 23
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'asian doctor']
+find best one
+counts:21 21
+new_text old_text: ['doctor', 'european doctor']
+find near one
+counts:5 1
+new_text old_text: ['doctor', 'african doctor']
+find best one
+counts:1 1
+new_text old_text: ['doctor', 'asian doctor']
+find near one
+counts:41 6
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+counts:10 34
+new_text old_text: ['doctor', 'indian doctor']
+find near one
+counts:15 0
+new_text old_text: ['doctor', 'african doctor']
+find near one
+counts:6 0
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+find near one
+counts:25 23
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+continue
+new_text old_text: ['doctor', 'indian doctor']
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+find near one
+counts:25 23
+new_text old_text: ['doctor', 'asian doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['latino doctor', 'european doctor']
+find best one
+counts:24 25
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['latino doctor', 'african doctor', 'european doctor']
+find near one
+counts:8 5
+new_text old_text: ['doctor', 'indian doctor']
+preserve_output:['latino doctor', 'indian doctor', 'african doctor', 'european doctor']
+find best one
+counts:3 4
+new_text old_text: ['doctor', 'asian doctor']
+preserve_output:['european doctor', 'asian doctor', 'african doctor', 'indian doctor', 'latino doctor']
+find best one
+counts:0 1
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+continue find near one
+new_text old_text: ['doctor', 'european doctor']
+preserve_output:['european doctor', 'latino doctor']
+find best one
+counts:24 25
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+continue find near one
+new_text old_text: ['doctor', 'african doctor']
+preserve_output:['european doctor', 'latino doctor', 'african doctor']
+find near one
+counts:11 2
