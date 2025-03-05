@@ -5,9 +5,12 @@
     <style>
         .divider {
             height: 2px; 
-            background-color:
+            background-color: #000; /* 添加颜色，或者根据你的设计需要 */
             margin: 20px 0; 
             width: 100%; 
+        }
+        .large-title {
+            font-size: 24px; /* 或者更大的字体大小，根据你的设计需要 */
         }
     </style>
 </head>
@@ -18,3 +21,4 @@
     <img src="images/intro2.png" alt="Alternative Text">
 </body>
 </html>
+
