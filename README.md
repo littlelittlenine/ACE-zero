@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <style>
         .divider {
-            height: 2px; /* 增加高度 */
-            background-color: #ccc; /* 设置背景颜色 */
-            margin: 20px 0; /* 添加上下边距 */
-            width: 100%; /* 确保分割线宽度占满容器 */
+            height: 2px; 
+            background-color:
+            margin: 20px 0; 
+            width: 100%; 
         }
     </style>
 </head>
