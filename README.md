@@ -1,4 +1,5 @@
-<!DOCTYPE html>>
+<!DOCTYPE html>
+<html>
 <body>
     <p class="large-title"><strong>ACE: Concept Editing in Diffusion Models without Performance Degradation</strong></p>
     <div class="divider"></div>
@@ -6,5 +7,4 @@
     <img src="images/intro2.png" alt="Alternative Text">
 </body>
 </html>
-
 
