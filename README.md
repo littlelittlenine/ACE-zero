@@ -5,18 +5,18 @@
     <style>
         .divider {
             height: 2px; 
-            background-color: #000; /* 添加颜色，或者根据你的设计需要 */
+            background-color: #000; 
             margin: 20px 0; 
             width: 100%; 
         }
         .large-title {
-            font-size: 24px; /* 或者更大的字体大小，根据你的设计需要 */
+            font-size: 24px; 
         }
     </style>
 </head>
 <body>
     <p class="large-title"><strong>ACE: Concept Editing in Diffusion Models without Performance Degradation</strong></p>
-    <div class="divider"></div> <!-- 分割线 -->
+    <div class="divider"></div>
     <img src="images/intro1.png" alt="Alternative Text">
     <img src="images/intro2.png" alt="Alternative Text">
 </body>
@@ -41,18 +41,18 @@
   /* 打印样式 */
   @media print {
     .divider {
-      display: none; /* 在打印时不显示分割线 */
+      display: none; 
     }
     
     .large-title {
-      font-size: 18pt; /* 设置一个适合打印的字体大小 */
+      font-size: 18pt;
     }
   }
  </style>
 </head>
 <body>
  <p class="large-title"><strong>ACE: Concept Editing in Diffusion Models without Performance Degradation</strong></p>
- <div class="divider"></div> <!-- 分割线 -->
+ <div class="divider"></div> 
  <img src="images/intro1.png" alt="Alternative Text">
  <img src="images/intro2.png" alt="Alternative Text">
 </body>
