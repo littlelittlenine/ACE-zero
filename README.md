@@ -10,5 +10,4 @@
     <img src="<img src="images/intro1" alt="Alternative Text">" alt="Alternative Text">
     <img src="<img src="images/intro2" alt="Alternative Text">" alt="Alternative Text">
 </body>
-
 </html>
