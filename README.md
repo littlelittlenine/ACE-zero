@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 python /train-scripts/erase_nude_alphaedit.py --model_save_path /models/edit.pt --concepts_save_path /models/edit.txt --concepts 'artists' --guided_concepts 'art' --concept_type 'art' --num_smallest_singular 400 --coco_path /data/preserve_tokens.csv --lamda 100 --device 0
 ```
-### Moderating
+### Erasing nudity, violence, etc
 To moderate concepts (e.g. "violence, nudity, harm")
 ```
 python /train-scripts/erase_nudity.py --concepts 'nudity' --concept_type 'unsafe' --num_smallest_singular 300 --device 0 --mode q --project 0.16 
