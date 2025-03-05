@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ACE: Concept Editing in Diffusion Models</title>
+    <title ACE: Concept Editing in Diffusion Models>
 </head>
 <body>
     <p><strong><big>ACE: Concept Editing in Diffusion Models without Performance Degradation</big></strong></p>
