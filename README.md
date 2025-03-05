@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <p class="large-title"><strong>ACE: Concept Editing in Diffusion Models without Performance Degradation</strong></p>
-    <div class="divider"></div>
-    <img src="images/intro1.png" alt="Alternative Text">
-    <img src="images/intro2.png" alt="Alternative Text">
-</body>
-</html>
+# ACE: Concept Editing in Diffusion Models without Performance Degradation
+<div align='center'>
+<img src = 'images/intro1.png'>
+
 
