@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ### Erasing Artists
 ```
-python /train-scripts/erase_nude_alphaedit.py --model_save_path /models/edit.pt --concepts_save_path /models/edit.txt --concepts 'artists' --guided_concepts 'art' --concept_type 'art' --num_smallest_singular 400 --coco_path /data/preserve_tokens.csv --lamda 100 --device 0
+python /train-scripts/erase_mass_alphaedit.py --model_save_path /models/edit.pt --concepts_save_path /models/edit.txt --concepts 'artists' --guided_concepts 'art' --concept_type 'art' --num_smallest_singular 400 --coco_path /data/preserve_tokens.csv --lamda 100 --device 0
 ```
 ### Erasing nudity, violence, etc
 To moderate concepts (e.g. "violence, nudity, harm")
