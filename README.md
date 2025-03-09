@@ -26,5 +26,9 @@ python /train-scripts/erase_nudity.py --concepts 'nudity' --concept_type 'unsafe
 ### Debiasing
 To debias concepts (e.g. "Doctor, Nurse, Carpenter") against attributes (e.g. "Male, Female") 
 ```
-python /train-scripts/train_debias_nullspace.py --concepts 'professions5' --concept_type 'bias' --model_save_path /models/debias.pt --concepts_save_path /models/debias.txt --coco_path /data/preserve_tokens.csv --lamda 10
-
+python /mlx_devbox/users/wangruipeng/playground/paper_run/uce_nullspace/unified-concept-editing-main/rich_article
+/train_debias_nullspace.py --concepts 'professions5' --concept_type 'bias_profession' --model_save_path /mnt/bn/intern-disk/mlx/users/wrp/uce_nullspace/model_save/ar
+t_erase/rich_paper/nudity/unbias/debias_100.pt --concepts_save_path /mnt/bn/intern-disk/mlx/users/wrp/uce_nullspace/model_save/art_erase/rich_paper/nudity/unbias/deb
+ias_100.txt --lamda 10 --device 0 --coco_path /mlx_devbox/users/wangruipeng/playground/paper_run/uce_nullspace/unified-concept-editing-main/data/extracted_subjects_b
+ig_only_1000.csv --add_prompts True
+```
